@@ -1,0 +1,29 @@
+th,
+td {
+    text-align: center !important;
+}
+
+li {
+    background: #a57e3a !important;
+    color: black;
+}
+
+input {
+    width: 50px !important;
+}
+
+body {
+    padding-top: 20px;
+    background: rgb(185, 148, 88) !important;
+}
+
+img {
+    width: 100%;
+    height: 30vh;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#items-shipping-cart {
+    margin-top: 20px !important;
+}
